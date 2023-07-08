@@ -1,0 +1,8 @@
+Search term for primary research articles for carbon nanotubes in Scupus.com:
+
+TITLE-ABS-KEY ( ( "Carbon Nanotube" ) OR ( "Carbon nanotube" ) OR ( "carbon nanotube" ) OR ( "CNT" ) ) AND ( LIMIT-TO ( DOCTYPE , "ar" ) )
+
+
+Search term for classification in the excel file (Toxicology Literature Review_Final.xlsx:
+
+'TITLE-ABS-KEY ( ( "carbon nanotube*"  OR  "SWCNT"  OR  "MWCNT"  OR  "DWCNT"  OR  "CNT" )  AND  ( *toxic*  OR  biocompatib*  OR  "cell viability"  OR  "cell death"  OR  inflammation  OR  "immune response"  OR  fibrosis  OR  mortality  OR  survival  OR  "reactive oxygen species"  OR  "ROS" ) )  AND  ( LIMIT-TO ( SRCTYPE ,  "j" ) )  AND  ( LIMIT-TO ( PUBSTAGE ,  "final" ) )  AND  ( LIMIT-TO ( DOCTYPE ,  "ar" ) )  AND  ( EXCLUDE ( SUBJAREA ,  "ENER" )  OR  EXCLUDE ( SUBJAREA ,  "COMP" )  OR  EXCLUDE ( SUBJAREA ,  "MATH" )  OR  EXCLUDE ( SUBJAREA ,  "SOCI" )  OR  EXCLUDE ( SUBJAREA ,  "ECON" )  OR  EXCLUDE ( SUBJAREA ,  "BUSI" )  OR  EXCLUDE ( SUBJAREA ,  "DENT" )  OR  EXCLUDE ( SUBJAREA ,  "PSYC" )  OR  EXCLUDE ( SUBJAREA ,  "NURS" )  OR  EXCLUDE ( SUBJAREA ,  "ARTS" )  OR  EXCLUDE ( SUBJAREA ,  "DECI" ) )  AND  ( EXCLUDE ( EXACTKEYWORD ,  "Electrodes" )  OR  EXCLUDE ( EXACTKEYWORD ,  "Electrode" )  OR  EXCLUDE ( EXACTKEYWORD ,  "Electrochemical Analysis" )  OR  EXCLUDE ( EXACTKEYWORD ,  "Electrochemistry" )  OR  EXCLUDE ( EXACTKEYWORD ,  "Electrochemical Techniques" )  OR  EXCLUDE ( EXACTKEYWORD ,  "Physical Chemistry" )  OR  EXCLUDE ( EXACTKEYWORD ,  "Electric Conductivity" )  OR  EXCLUDE ( EXACTKEYWORD ,  "Catalysis" )  OR  EXCLUDE ( EXACTKEYWORD ,  "Cyclic Voltammetry" )  OR  EXCLUDE ( EXACTKEYWORD ,  "Water Pollutants, Chemical" ) ) '
